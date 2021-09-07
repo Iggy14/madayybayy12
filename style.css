@@ -1,8 +1,11 @@
 body{
-    background-color:#f6416c;
+    background-color: linear-gradient(to right,blue,lightblue);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h3{
     text-align: center;
     color: lightgrey;
+}
+p.clLink{
+    color:lightsalmon
 }
